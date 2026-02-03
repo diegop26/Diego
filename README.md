@@ -1,1 +1,2 @@
-# Diego
+# nombre = "Diego Peñafiel"
+print(nombre)
